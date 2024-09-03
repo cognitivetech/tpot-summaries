@@ -1,7 +1,7 @@
 # PROGMNING AND METAPROGAMMING THE HUMAN BIOCOMPUTER (Summary)
 by John C. Lilly
 
-> Programming and Metaprogramming in the Human Biocomputer was written by Dr. John C. Lilly about his research conducted at the National Institute of Mental Health. In it, he discusses his invention of float tanks, early communication with dolphins, and investigations into the use of LSD for personal and cultural development. This historic work is reprinted in this version, in its entirety, for the first time in 25 years. - [Programming and Metaprogramming in the Human Biocomputer (Amazon)](https://www.amazon.com/Programming-Metaprogramming-Human-Biocomputer-Experiments/dp/0692217894/?&tag=cognitivetech-20))
+> Programming and Metaprogramming in the Human Biocomputer was written by Dr. John C. Lilly about his research conducted at the National Institute of Mental Health. In it, he discusses his invention of float tanks, early communication with dolphins, and investigations into the use of LSD for personal and cultural development. This historic work is reprinted in this version, in its entirety, for the first time in 25 years. - [Programming and Metaprogramming in the Human Biocomputer (Amazon)](https://www.amazon.com/Programming-Metaprogramming-Human-Biocomputer-Experiments/dp/0692217894/?&tag=cognitivetech-20)
 
 ## Contents
 - [Introduction](#introduction)
