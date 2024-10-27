@@ -1,5 +1,6 @@
 # The Doctrine of the Fathers and Anarchism-Biocosmism (Summary)
 by Alexander Svyatogor
+https://theanarchistlibrary.org/library/alexander-svyatogor-the-doctrine-of-the-fathers-and-anarchism-biocosmism
 
 1. Early 20th century anarchist thought in Russia evolved through two main periods: uncritical (unified anarchism) and critical.
 2. The unified anarchism phase was characterized by strict adherence to traditional doctrines, inability to adapt to reality, and ultimately failed during the Russian Revolution.
